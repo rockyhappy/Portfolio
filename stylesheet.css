@@ -203,3 +203,7 @@
     color: var(--primary);
     position: relative  ;
 }
+.head-1{
+    font-size: 30px;
+    text-decoration: solid ;
+}
